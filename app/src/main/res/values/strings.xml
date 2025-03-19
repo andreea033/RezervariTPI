@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Proiect2</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Parolă</string>
+    <string name="btn_login">Autentificare</string>
+    <string name="register_text">Nu ai cont? Înregistrează-te</string>
+    <string name="btn_register">Înregistrează-te</string>
+
+</resources>

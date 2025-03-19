@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "339744133471",
+    "project_id": "aplicatierezervari",
+    "storage_bucket": "aplicatierezervari.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339744133471:android:eece04dbcbc30db2fa26ea",
+        "android_client_info": {
+          "package_name": "com.example.proiect2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVFTFlbcBmP9kbXvNp8Q3RT3uzHQZNIfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
